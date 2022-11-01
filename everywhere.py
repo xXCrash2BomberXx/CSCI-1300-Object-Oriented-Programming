@@ -1,0 +1,1 @@
+[print(z) for z in [len(set([input() for t in range(int(input()))])) for i in range(int(input()))]]
